@@ -4,3 +4,4 @@
 * [ООП](doc/oop.md)
 * [Информатика](doc/info.md)
 * [Математическое моделирование](doc/math-model.md)
+* [Full](doc/full.md)
